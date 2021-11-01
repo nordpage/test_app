@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardElevation">5dp</dimen>
+    <dimen name="cardRadius">10dp</dimen>
+
+    <dimen name="minImageSize">200dp</dimen>
+    <dimen name="layoutPadding">5dp</dimen>
+</resources>
